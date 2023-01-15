@@ -1,0 +1,34 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: whitesmoke;
+}
+
+body h1 {
+    text-align: center;
+    color: royalblue;
+    font-size: 48px;
+    background-color: #EEA47FFF;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+ul, ol, #description {
+    font-size: 22px;
+}
+
+#description-area {
+    color: #EEA47FFF;
+    background-color: royalblue;
+}
+
+#ingredients {
+    color: royalblue;
+    background-color: #EEA47FFF;
+}
+
+#steps {
+    color: #EEA47FFF;
+    background-color: royalblue;
+}
